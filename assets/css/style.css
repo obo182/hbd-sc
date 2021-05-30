@@ -20,7 +20,7 @@
     flex-direction: column;
     min-width: 0;
     word-wrap: break-word;
-    background-color: #dbd377 !important;
+    background-color: #ffffff !important;
     background-clip: border-box;
     border: 0px solid rgba(0, 0, 0, 0) !important;
     border-radius: 10px !important;
@@ -28,7 +28,7 @@
 
 .judul {
     font-family: 'Concert One', cursive;
-    color: #D3F3EE;
+    color: #000000;
 }
 
 .subjudul {
@@ -58,7 +58,7 @@
 }
 
 .modal-content {
-    background-color: #dbd377 !important;
+    background-color: #ffffff !important;
 }
 
 .modal-body {
